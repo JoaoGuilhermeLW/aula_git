@@ -11,6 +11,7 @@ public class Operacao {
         this.dest = dest;
         this.remt = remt;
     }
+
     public int getTipo() {
         return tipo;
     }
@@ -77,3 +78,4 @@ public class Operacao {
         }
     }
 }
+
